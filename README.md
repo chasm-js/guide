@@ -50,6 +50,28 @@ https://raw.githubusercontent.com/chasm-js/snack/refs/heads/main/redpill.user.js
 
 ``` 
 https://raw.githubusercontent.com/chasm-js/snack/refs/heads/main/copy.user.js
+```
+
+---
+
+### 캐즘 버너+ (Chasm burner+)
+
+애프터버너 기능의 개선판입니다. 대화 내역을 Gemini를 사용해 요약하며, 채팅방으로 전송합니다.
+
+> 기존 애프터버너에서의 개선점:
+> * 전체 코드 리팩토링, setTimeout 과도 남용 및 부적절한 코드 제거
+> * 메세지 수정을 통한 전송을 6000자로 리밋 변경
+> * 메세지 전송 전 확인 및 수정기능
+> * 여러번 요약 후 원하는 요약본 전송
+> * API 발급 페이지 연결 추가
+> * ... 추후 커뮤니티 프롬프트 구독, 내 커스텀 프롬프트 저장 등 기능 추가 예정
+
+[![Install Chasm burner+](https://img.shields.io/badge/🚀%20Install-Chasm_Burner-blue?style=for-the-badge)](https://raw.githubusercontent.com/chasm-js/snack/refs/heads/main/burner.user.js)
+
+**직접 설치 링크 복사:**
+
+``` 
+https://raw.githubusercontent.com/chasm-js/snack/refs/heads/main/burner.user.js
 ``` 
 
 ---
