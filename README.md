@@ -72,6 +72,20 @@ https://raw.githubusercontent.com/chasm-js/snack/refs/heads/main/copy.user.js
 
 ``` 
 https://raw.githubusercontent.com/chasm-js/snack/refs/heads/main/burner.user.js
+```
+
+---
+
+### 캐즘 타이디 (Chasm tidy)
+
+크랙 메인 페이지에서 팔로잉, 좋아요 목록 제외 전체 캐릭터 섹션을 숨기는 스크립트
+
+[![Install tidy](https://img.shields.io/badge/🚀%20Install-Tidy-blue?style=for-the-badge)](https://raw.githubusercontent.com/chasm-js/snack/refs/heads/main/tidy.user.js)
+
+**직접 설치 링크 복사:**
+
+``` 
+https://raw.githubusercontent.com/chasm-js/snack/refs/heads/main/tidy.user.js
 ``` 
 
 ---
