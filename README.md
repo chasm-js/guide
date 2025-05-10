@@ -107,6 +107,20 @@ https://raw.githubusercontent.com/chasm-js/snack/refs/heads/main/tidy.user.js
 
 ---
 
+### 캐즘 스타일 (Chasm style) v1.0
+
+* iOS 웹 기반 입력창 터치시 확대되던 오류 수정
+* 특성 기기/비라우저에거 코드블록 내옹이 serif 체로 나오던 문제 강제 해결
+
+[![Install style](https://img.shields.io/badge/🚀%20Install-Style-blue?style=for-the-badge)](https://raw.githubusercontent.com/chasm-js/snack/refs/heads/main/style.user.js)
+
+**직접 설치 링크 복사:**
+
+``` 
+https://raw.githubusercontent.com/chasm-js/snack/refs/heads/main/style.user.js
+``` 
+---
+
 ## 설치 가이드
 
 크롬 확장 프로그램의 보안 정책으로 인해 `.user.js` 링크 클릭 시 다운로드나 설치가 정상적으로 되지 않을 수 있습니다.  
