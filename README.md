@@ -65,7 +65,7 @@ https://raw.githubusercontent.com/chasm-js/snack/refs/heads/main/burner.user.js
 
 ---
 
-### 캐즘 카피 (Chasm Copy) v1.2.1
+### 캐즘 카피 (Chasm Copy) v1.2.2
 
 생성한 캐릭터를 새 캐릭터로 복제하거나, JSON 데이터 복사/붙여넣기 기능을 추가하는 스크립트입니다.
 
