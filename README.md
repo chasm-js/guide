@@ -39,9 +39,9 @@ Chasm.js 통합 버전이 출시되기 전까지 필요한 기능만 골라 설�
 
 ## Chasm Snack (미니 스크립트)
 
-### 캐즘 버너+ (Chasm burner+) v1.2.1-beta
+### 캐즘 버너+ (Chasm burner+) v1.3-beta
 
-애프터버너 기능의 개선판입니다. 대화 내역을 Gemini를 사용해 요약하며, 채팅방으로 전송합니다.
+애프터버너 기능의 개선판입니다. 대화 내역을 Gemini 또는 OpenRouter를 사용해 요약하며, 채팅방으로 전송합니다.
 
 사용법: [[뤼튼 여성향 갤러리 - 캐즘 어케써??? ㅠㅠ]](https://gall.dcinside.com/mini/board/view/?id=wrtnw&no=47950) [[아카이브]](https://archive.is/VXqhQ) [[웨이백 머신 아카이브]](https://web.archive.org/web/20250503211128/https://gall.dcinside.com/mini/board/view/?id=wrtnw&no=47950)
 
