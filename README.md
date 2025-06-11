@@ -1,21 +1,15 @@
 # Chasm - 캐즘
 
-**Chasm**은 AI 채팅 서비스 **Crack**을 위한 유저스크립트 확장 프로젝트입니다.
-
-Crack이 여는 새로운 세상의 틈을, Chasm으로 더욱 넓게 확장해보세요.
-
 > **chasm** [ˈkæzəm]  
 > *noun* | *명사*  
 > 
-> 1. (지질) 땅이나 암석, 표면 등에 생긴 깊고 큰 틈  
->    *"A chasm opened in the ground after the earthquake."*  
->    *(지진 후 땅에 커다란 틈이 생겼다.)*
-
----
+> (지질) 땅이나 암석, 표면 등에 생긴 깊고 큰 틈  
+> *"A chasm opened in the ground after the earthquake."*  
+> *(지진 후 땅에 커다란 틈이 생겼다.)*
 
 ## 소개
 
-Chasm은 Crack 사용자 경험을 확장하는 프로젝트입니다.  
+Chasm (캐즘) 은 Crack 사용자 경험을 확장하는 프로젝트입니다.
 
 개발이 중단된 [**FastWrtn**](https://github.com/sickwrtn/FastWrtn) 및 [**FastCrack**](https://github.com/sickwrtn/FastCrack)의 정신을 계승하며, 더 발전된 유저스크립트 포맷과 폭넓은 브라우저 지원을 목표로 하고 있습니다.
 
@@ -39,7 +33,7 @@ Chasm.js 통합 버전이 출시되기 전까지 필요한 기능만 골라 설�
 
 ## Chasm Snack (미니 스크립트)
 
-### 캐즘 버너+ (Chasm burner+) v1.3-beta
+### 캐즘 버너+ (Chasm burner+) v1.3.2 beta
 
 애프터버너 기능의 개선판입니다. 대화 내역을 Gemini 또는 OpenRouter를 사용해 요약하며, 채팅방으로 전송합니다.
 
@@ -132,7 +126,7 @@ https://raw.githubusercontent.com/chasm-js/snack/refs/heads/main/style.user.js
 2. [Violentmonkey (Chrome, Firefox, Edge)](https://violentmonkey.github.io/)
 3. [Stay (iOS)](https://apps.apple.com/kr/app/stay-for-safari/id1591620171)
 
-둘 중 하나를 설치한 후, 위의 스크립트 링크를 이용하여 설치하세요.
+이후, 위의 스크립트 링크를 이용하여 설치하세요.
 
 ---
 
@@ -148,4 +142,3 @@ A. 크롬에서 [개발자 모드](chrome://extensions/)를 켜고 설치를 시
 A. 파이어폭스(또는 파이어폭스 계열 브라우저) 사용을 권장합니다.  
    파이어폭스에서는 유저스크립트 매니저와의 호환성이 더 좋습니다.
 
----
